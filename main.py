@@ -22,7 +22,7 @@ def main():
     country = []
 
     for item in name_country:
-        item = item.split('-')
+        item = item.split('--')
         name.append(item[0])
         country.append(item[1])
 
