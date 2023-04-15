@@ -82,3 +82,48 @@ https://www.tasteatlas.com/cordon-bleu/recipe
 Bobotie--South Africa
 Beef, Lamb, Almond, Turmeric, Raisin, Egg, Milk, Bread
 https://www.tasteatlas.com/bobotie/recipe
+Acar--Indonesia
+Cucumber, Carrot, Shallot, Garlic, Salt, Vinegar, Hot Peppers, Sugar
+https://www.tasteatlas.com/acar/recipe
+Irish Stew--Ireland
+Mutton, Lamb, Onion, Potato, Barley, Carrot, Turnip, Parsnip
+https://www.tasteatlas.com/irish-stew/recipe
+Cozonac--Romania
+Flour, Egg, Cocoa Bean, Milk, Nut, Raisin, Sugar
+https://www.tasteatlas.com/cozonac/recipe
+Gaufre--Belgium
+Flour, Milk, Yeast, Egg, Cream, Butter, Vanilla, Honey
+https://www.tasteatlas.com/gaufre/recipe
+Danish Pastry--Denmark
+Flour, Butter, Milk, Egg, Sugar, Almond, Vanilla
+https://www.tasteatlas.com/danish-pastry/recipe
+Migas--Portugal
+Bread, Lard, Olive Oil, Salt, Garlic, Paprika
+https://www.tasteatlas.com/migas/recipe
+Banitsa--Bulgaria
+Phyllo Dough, Pumpkin, Sugar, Walmuts, Sunflower Oil, Cinnamon
+https://www.tasteatlas.com/banitsa/recipe
+Butter Chicken--India
+Chicken, Tomato, Butter, Red Chilli Powder, Garlic, Ginger, Fenugreek, Cream
+https://www.tasteatlas.com/butter-chicken/recipe
+Sushi--Japan
+Seafood, Nori, Shiitake, Surimi, Persian Cucumber, Scallion, Egg, Uni
+https://www.tasteatlas.com/sushi/recipe
+Pavlova--Australia
+Egg, Sugar, Vanilla, Whipped Cream, Corn Flour, Peach, Strawberry, Lime Juice
+https://www.tasteatlas.com/pavlova/recipe
+Chimichurri--Argentina
+Parsley, Garlic, Oregano, Olive Oil, Vinegar, Red Chili Flakes
+https://www.tasteatlas.com/chimichurri/recipe
+Churrasco--Brazil
+Beef, Veal, Lamb, Pork, Chicken
+https://www.tasteatlas.com/churrasco/recipe
+Kanelbulle--Sweden
+Fresh Yeast, Milk, Flour, Butter, Sugar, Cinnamon, Salt, Egg, Freshly Ground Cardamom
+https://www.tasteatlas.com/cinnamon-roll/recipe
+Mofongo--Dominican Republic
+Plantain, Chicharron, Garlic, Salt, Olive Oil
+https://www.tasteatlas.com/mofongo/recipe
+Mahalabiyeh--Jordan
+Rice Flour, Corn, Milk, Sugar, Orange Flower Water, Rose Water, Cinnamon, Pistachios
+https://www.tasteatlas.com/mehalabiya/recipe
