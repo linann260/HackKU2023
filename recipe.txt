@@ -1,0 +1,84 @@
+Croissant--France
+Flour, Butter, Milk, Egg, Sugar, Salt
+https://www.tasteatlas.com/croissant/recipe
+Cheeseburger-United States of America
+Beef, Burger Bun, Onion, Ketchup, Mustard, Tomato, Lettuce, Salt
+https://www.tasteatlas.com/burger/recipe
+Jiaozi--China
+Flour, Pork, Beef, Rice Wine, Napa Cabbage, Bamboo Shoot, Ginger, Garlic
+https://www.tasteatlas.com/jiaozi/recipe
+Paella--Spain
+Bamba Rice, Tomato, Saffron String, Green Bean, Rosemary, Garrofon Bean, Rabbit, Chicken, Virgin Olive Oil
+https://www.tasteatlas.com/paella/recipe
+Pizza--Italy
+Yeast, Flour, Tomato, Virgin Olive Oil, Mozzarella, Basil, Hard Cheese
+https://www.tasteatlas.com/pizza/recipe
+Borek--Turkey
+Flour, Oil, Pisachio, Kaymak
+https://www.tasteatlas.com/borek/recipe
+Fish and Chips--United Kingdom
+Cod, Hake, Haddock, Potato, Flour, Lard
+https://www.tasteatlas.com/fish-and-chips
+Pretzel--Germany
+Flour, Yeast, Butter, Sugar, Salt
+https://www.tasteatlas.com/pretzel/recipe
+Kurnik--Russia
+Flour, Butter, Egg, Cream Cheeze, Chicken, Mushroom, Onion, Parsley
+https://www.tasteatlas.com/kurnik
+Laksa--Malaysia
+Noodles, Vermicelli, Mackerel, Shrimp, Coconut Milk, Tamarind, Coriander, Sambal
+https://www.tasteatlas.com/laksa/recipe
+Tacos--Mexico
+Tortilla, Beef, Pork, Chicken, Cod, Shrimp, Oil, Garlic
+https://www.tasteatlas.com/tacos/recipe
+Sachertorte--Austria
+Dark Chocolate, Apricot Jam, Butter, Vanilla, Egg, Sugar, Wheat Flour
+https://www.tasteatlas.com/sachertorte/recipe
+Varenykey--Ukraine
+Flour, Egg, Potato, Fresh Cheese, Onion
+https://www.tasteatlas.com/pierogi-ruskie/recipe
+Pad Thai--Thailand
+Noodle, Peanuts Shrimp, Garlic, Bean Sprout, Turnip, Tofu, Tamarind
+https://www.tasteatlas.com/pad-thai/recipe
+Shawarma--Saudi Arabia
+Pita Bread, Lavash, Lamb, Beef, Chicken, Vegetables, Cinnamon, Clove, Cardamom, Nutmeg, Garlic, Bay Leaves
+https://www.tasteatlas.com/shawarma/recipe
+Gyros--Greece
+Pork, Beef, Chicken, Lamb, Pita Bread, Tzatziki, Tomato, Onion
+https://www.tasteatlas.com/gyros/recipe
+Poutine--Canada
+Potatoes, Cheese Curd, Poutine Gravy, Canola Oil, Salt
+https://www.tasteatlas.com/poutine/recipe
+Pierogi--Poland
+Flour, Egg, Slovenska Bryndza, Fresh Cheese, Bacon, Potato, Onion
+https://www.tasteatlas.com/pierogi/recipe
+Appeltaart--Netherlands
+Apple, Flour, Sugar, Salt, Butter, Egg, Raisin, Cinnamon
+https://www.tasteatlas.com/appeltaart/recipe
+Curry Laksa--Singapore
+Noodle, Coconut Milk, Tofu, Prawns, Galangal, Lemongrass, Turmeric, Coriander
+https://www.tasteatlas.com/curry-laksa/recipe
+Chicken Paprikash--Hungary
+Chicken, Szegedi Fuszerpaparika-orlemeny, Kalocsai Fuszerpaprika-orlemeny, Lard, Onion, Sour Cream, Flour, Vegetable Oil
+https://www.tasteatlas.com/paprikas-csirke/recipe
+Fritule--Croatia
+Flour, Egg, Yeast, Milk, Butter, Sugar, Yogurt, Baking Powder
+https://www.tasteatlas.com/fritule/recipe
+Kimchi--South Korea
+Napa Cabbage, Radish, Scallions, Oysters, Anchovy, Shrimp, Onion, Garlic
+https://www.tasteatlas.com/kimchi/recipe
+Ta'meya--Egypt
+Flour, Chickpea, Fava Bean, Parsley, Coriander, Cumin, Onion, Garlic
+https://www.tasteatlas.com/falafel/recipe
+Pastilla--Morocco
+Flour, Squab, Chicken, Almond, Egg, Butter, Onion, Garlic
+https://www.tasteatlas.com/pastilla/recipe
+Kolace--Czech Republic
+Flour, Egg, Butter, Milk, Yeast, Poppy Seed, Plum Jam
+https://www.tasteatlas.com/kolach/recipe
+Cordon Bleu--Switzerland
+Veal, Pork, Chicken, Gruyere, Boiled Ham, Credcrumb, Egg, Flour
+https://www.tasteatlas.com/cordon-bleu/recipe
+Bobotie--South Africa
+Beef, Lamb, Almond, Turmeric, Raisin, Egg, Milk, Bread
+https://www.tasteatlas.com/bobotie/recipe
